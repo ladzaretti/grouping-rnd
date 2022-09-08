@@ -1,0 +1,12 @@
+{
+  "packageRules":[
+    {
+      "matchUpdateType": ["major"],
+      "groupName": "major-updates"
+    },
+    {
+      "matchUpdateType": ["minor","patch"],
+      "groupName": "non-major-updates"
+    }
+  ]
+}
