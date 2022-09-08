@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "luxon": "2.0.1",
-    "got": "11.8.3",
-    "lodash": "3.7.0"
+    "luxon": "2.5.0",
+    "got": "11.8.5",
+    "lodash": "3.10.1"
   }
 }
