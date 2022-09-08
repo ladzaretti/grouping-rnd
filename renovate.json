@@ -1,7 +1,7 @@
 {
   "packageRules":[
     {
-      "matchUpdateType": ["major"],
+      "matchUpdateTypes": ["major"],
       "groupName": "major-updates"
     },
     {
